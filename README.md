@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 #### - 🌱 I’m currently learning at HUST,and working on Pivot-Studio 
 #### - Try to learn the frontend knowledge
+#### - 😄 Happy life with the growth of fate
