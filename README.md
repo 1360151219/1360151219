@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 #### - Try to learn the frontend knowledge
 #### - 😄 Happy life with the growth of fate
 
-![](https://visitor-badge.glitch.me/badge?1360151219=CasterWx.readme)
+![](https://visitor-badge.glitch.me/badge?page_id=1360151219)
 
-![](http://antzuhl.cn:4000/get/@1360151219.readme)
+![](http://antzuhl.cn:4000/get/@1360151219)
 
 ![info](https://github-readme-stats.vercel.app/api?username=1360151219&show_icons=true&count_private=true&hide=prs&theme=synthwave)
 
