@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 #### - 🌱 I’m currently learning at HUST,and working on Pivot-Studio 
 #### - Try to learn the frontend knowledge
+#### - Spring recruitment in 2022 to obtain ByteDance, Alibaba and other offers.And I got EOI in the summer internship in ByteDance.
+#### - Love coding~~ with FE & Rust which language I have been studing~
 #### - 😄 Happy life with the growth of fate
 
 ![](https://visitor-badge.glitch.me/badge?page_id=1360151219)
